@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std;#define int long longsigned main() {  ios::sync_with_stdio(false);  cin.tie(nullptr);  int k;  string s;  cin >> k >> s;  int n = (int)s.size();  if(n <= k) {    cout << s << '\n';  } else {    string ans = s.substr(0, k);    ans += "...";    cout << ans << '\n';  }}
