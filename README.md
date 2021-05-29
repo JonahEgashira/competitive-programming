@@ -1,5 +1,6 @@
 # competitive-programming
 My submissions for programming contests
+To see all my submissions, click links below
 
 ## AtCoder
 https://atcoder.jp/users/Jonah00
